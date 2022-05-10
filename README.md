@@ -2,13 +2,15 @@
 [![javadoc-develop](https://img.shields.io/badge/Javadoc-develop-green?style=plastic)](https://autostreams.github.io/prototype-utils/javadoc-develop/)
 
 ## About The Project
-This is the utilities used by the Autostreams [Pulsar](https://github.com/AutoStreams/prototype-pulsar) and [Kafka](https://github.com/AutoStreams/prototype-kafka) prototypes. The Pulsar and Kafka prototypes uses this repository as a Maven dependency defined in their pom.xml files. The following section explains how to build the project.
+This is the utilities used by the Autostreams [Pulsar](https://github.com/AutoStreams/prototype-pulsar) and [Kafka](https://github.com/AutoStreams/prototype-kafka) prototypes. The Pulsar and Kafka prototypes uses this repository as a Maven dependency defined in their pom.xml files. 
 
 ## Getting Started
 First acquire this project by cloning the repository. Cloning this repository can be done by downloading [Git](https://git-scm.com/) then executing the command:
 ```bash
 git clone https://github.com/AutoStreams/prototype-utils.git
 ```
+The following section explains how to build the project.
+
 ### Build with Maven
 **Prerequisites**
 * Download the latest version of [Maven](https://maven.apache.org/).
